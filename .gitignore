@@ -1,0 +1,24 @@
+.env
+**/.env
+
+.venv/
+**/.venv/
+venv/
+.venv-tables/
+table_output/
+
+__pycache__/
+**/__pycache__/
+*.pyc
+
+comparison_*.txt
+
+# Local source backups and editor temporary files
+*.bak
+*.bak[0-9]*
+*~
+*.swp
+*.swo
+
+/codebase.tar.gz
+/my-codebase.zip
